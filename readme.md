@@ -1,48 +1,44 @@
 
-# Pagina de Receita - Projeto Guiado
+# Página de receita
 
-💻 Projeto
+Página responsiva de uma receita de cupcake de café com chantilly, desenvolvida como exercício de HTML e CSS.
 
-é uma pagina de receita 💰
+![Preview da página](.github/cover.png)
 
+## Tecnologias
 
+- HTML5
+- CSS3
+- Google Fonts
 
-![preview](.github/cover.png)
+## Como executar
 
-##  Tecnologias usadas no projeto
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` no navegador.
 
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Também é possível usar a extensão **Live Server** no VS Code para visualizar a página durante o desenvolvimento.
 
+## Estrutura
 
+```text
+index.html  # Estrutura da página
+style.css   # Estilos da página
+assets/     # Imagens e ícones usados no projeto
+```
 
+## Layout
 
-## 🔖 Layout
+O projeto foi desenvolvido com base neste layout do Figma:
 
-Você pode visualizar o layout do projeto através [desse link](hhttps://www.figma.com/design/jxMm7ThhANH11I444zGwIA/P%C3%A1gina-de-receita--Community-?node-id=0-1&p=f&t=gaJWCqmM9pf0EpaK-0). 
-
-
-## 🔗 Deploy 
-
-![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
-![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-
+[Visualizar layout no Figma](https://www.figma.com/design/jxMm7ThhANH11I444zGwIA/P%C3%A1gina-de-receita--Community-?node-id=0-1&p=f&t=gaJWCqmM9pf0EpaK-0)
 
 ## 💻 Sobre mim 😄
- Entusiasta da programação e estudante de Engenharia de Software com foco em        desenvolvimento front-end rumo ao full stack. Dedicado a criar experiências digitais inovadoras que impactam o mundo através da tecnologia.
+
+Engenheiro de Software e desenvolvedor apaixonado por tecnologia, com foco em Full Stack Development. Tenho interesse em transformar ideias em soluções digitais, sempre buscando evoluir através de estudos, projetos práticos e compartilhamento de conhecimento.
+Atualmente, estudo e trabalho principalmente com JavaScript, TypeScript, Angular, React e Node.js.
 
 ## 🔗 Contato 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martinez-352032222/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-martinez-352032222/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:juniorjose1925@gmail.com)
-[![portfolio](https://img.shields.io/badge/Jose.Dev-0A0A0A?style=for-the-badge&logo=MyWeb&logoColor=whit)](https://my-portfolio-jose-martinez.netlify.app/)
-
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
+[![portfolio](https://img.shields.io/badge/Jose.Dev-0A0A03?style=for-the-badge&logo=react&logoColor=)](https://my-portfolio-jose-martinez.netlify.app/)
