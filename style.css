@@ -22,7 +22,7 @@ body {
   padding: 24px;
   background-color: #f0e8c2;
   border-radius: 24px;
-  margin: 48px auto; // 48 encima e embaixo e centralizado na horizontal
+  margin: 48px auto 28px; // 48 encima e embaixo e centralizado na horizontal
 }
 
 
@@ -65,4 +65,19 @@ ul {
 
 p {
   margin-bottom: 12px;
+}
+
+footer {
+  text-align: center;
+  color: #f0e8c2;
+  padding-bottom: 48px;
+}
+
+footer a {
+  text-decoration: none;
+    color: #f0e8c2;
+}
+
+footer img {
+  vertical-align: middle;
 }
